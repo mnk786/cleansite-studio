@@ -1,0 +1,34 @@
+CleanSite Studio: first-client checklist
+
+Goal: $5,000 gross revenue in six months. Planning target only: ten $500 projects.
+
+Before public launch
+- Confirm business name. Inquiry email: asimbzu@hotmail.com.
+- Choose a payment method available in your country; test payment and withdrawal before invoicing.
+- Test the email inquiry button in your browser and email app; it opens a draft addressed to asimbzu@hotmail.com.
+- Confirm domain, hosting, delivery capacity, and written scope.
+- Keep the demo labeled fictional. Do not claim clients or results you do not have.
+
+First week
+1. Review the website and demo; practice adapting the demo to one business.
+2. Find 30 independent Dallas–Fort Worth cleaning businesses using their public websites.
+3. Record business, website, public business contact, one observed website issue, and review date in prospects.csv.
+4. Draft a personalized approach for each suitable prospect. Do not send automatically.
+5. Aim to book one discussion and validate the $500 offer. Adjust after actual feedback.
+
+Draft outreach (replace every bracket with verified information)
+Subject: Website idea for [business]
+Hi [name/team], I looked at [URL] and noticed [specific, accurate issue].
+I build simple websites for cleaning businesses. My launch package is $500 for five pages, a quote-request form, and basic search setup; hosting and domain are separate.
+Would you like to see a short design example for your business?
+[Your name] | CleanSite Studio | asimbzu@hotmail.com
+
+Suggested scope terms to agree with each client
+- Exact pages, content responsibilities, hosting costs, and ownership.
+- Delivery date begins after required content and access arrive.
+- One consolidated revision round; additional work quoted separately.
+- Suggested payment schedule: $250 to start, $250 after approval before launch; agree refund/cancellation terms in writing.
+- No ranking, lead, or revenue guarantee.
+
+Month targets: 0, 1, 2, 2, 2, 3 completed $500 projects.
+Keep expenses and payment fees separate when measuring profit.
